@@ -1,7 +1,9 @@
+### 🏆 KIMMUSIC
+
+##backjoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwa3060)](https://solved.ac/hwa3060)
-![KIMMUSIC's github stats](https://github-readme-stats.vercel.app/api?username=KIMMUSIC&show_icons=true)
-[![KIMMUSIC's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMMUSIC&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/KIMMUSIC)
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
@@ -13,6 +15,8 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracles&logoColor=white"/></a>&nbsp 
 </p>
 
 ---
@@ -23,3 +27,5 @@
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamyazdani&background=00000000&hide_border=true&stroke=F6C819&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
   
 </div> 
+
+[![KIMMUSIC's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMMUSIC&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/KIMMUSIC)
