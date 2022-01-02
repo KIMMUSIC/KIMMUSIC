@@ -2,8 +2,10 @@
 
 ## BAEKJOON
 
+<div align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwa3060)](https://solved.ac/hwa3060)
+</div>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -23,7 +25,7 @@
 </p>
 
 ---
-### 🏆 GitHub Status
+## GitHub Status
 <div align="center">
 
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KIMMUSIC&custom_title=KIMMUSIC's+GitHub+stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&cache_seconds=1800" />
@@ -31,4 +33,8 @@
   
 </div> 
 
+<div align="center">
+
 [![KIMMUSIC's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMMUSIC&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/KIMMUSIC)
+  
+</div>
