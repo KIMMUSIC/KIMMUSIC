@@ -14,3 +14,12 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
+
+---
+### 🏆 GitHub Status
+<div align="center">
+
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=KIMMUSIC&custom_title=KIMMUSIC's+GitHub+stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&cache_seconds=1800" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamyazdani&background=00000000&hide_border=true&stroke=F6C819&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
+  
+</div> 
