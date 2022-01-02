@@ -1,7 +1,7 @@
 ### 🏆 KIMMUSIC
 
 <div align = "center">
-## BAEKJOON
+  <h3 align = "center" >BAEKJOON</h3>
 
   
 [![Solved.ac
