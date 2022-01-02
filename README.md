@@ -1,6 +1,6 @@
 ### 🏆 KIMMUSIC
 
-##backjoon
+## BAEKJOON
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwa3060)](https://solved.ac/hwa3060)
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracles&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
 </p>
 
 ---
